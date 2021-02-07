@@ -19,7 +19,7 @@
 <body>
 <form method="post">
   <div class="container">
-   <div class="text1"><B>THÊM MỚI KHÁCH HÀNG</B></div>
+   <div class="text1"><B>Thêm thanh viên mới</B></div>
    <div class="text2">Tên khách hàng </div>
    <div><input type="text" name="txtten" class="inputtext" />
    </div>
